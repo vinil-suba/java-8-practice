@@ -1,4 +1,4 @@
-package java8.lambdaRealTimeExample;
+package java8.lamda.lambdaRealTimeExample;
 
 import java8.utils.Employee;
 

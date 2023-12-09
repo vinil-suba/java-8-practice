@@ -1,7 +1,6 @@
-package java8.sort;
+package java8.iQs.sort;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Java8Sorting {

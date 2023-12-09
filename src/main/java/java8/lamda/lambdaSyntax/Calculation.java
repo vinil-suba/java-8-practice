@@ -1,4 +1,4 @@
-package java8.lambdaSyntax;
+package java8.lamda.lambdaSyntax;
 
 @FunctionalInterface
 public interface Calculation {

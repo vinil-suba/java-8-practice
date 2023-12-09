@@ -1,7 +1,7 @@
 package java8.lambdaRealTimeExmple;
 
 import java8.utils.Employee;
-import java8.lambdaRealTimeExample.BasicStreamsJava8;
+import java8.lamda.lambdaRealTimeExample.BasicStreamsJava8;
 import org.junit.Test;
 
 import java.util.ArrayList;

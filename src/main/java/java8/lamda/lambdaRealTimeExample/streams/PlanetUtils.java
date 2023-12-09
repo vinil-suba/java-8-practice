@@ -1,4 +1,4 @@
-package java8.lambdaRealTimeExample.streams;
+package java8.lamda.lambdaRealTimeExample.streams;
 
 import java.util.List;
 

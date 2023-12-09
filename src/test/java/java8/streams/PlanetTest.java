@@ -1,6 +1,6 @@
 package java8.streams;
 
-import java8.lambdaRealTimeExample.streams.PlanetUtils;
+import java8.lamda.lambdaRealTimeExample.streams.PlanetUtils;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
