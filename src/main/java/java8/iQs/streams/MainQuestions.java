@@ -341,6 +341,7 @@ public class MainQuestions {
         Map<String, List<Employee>> stringListMap = staticEmployeeList
                 .stream()
                 .collect(Collectors.groupingBy(Employee::getDepartment));
+
         List<Employee> duplicateEmployeeList = stringListMap
                 .values()
                 .stream()
